@@ -1,4 +1,4 @@
-package com.mc.ecommerce.kafka.payement;
+package com.mc.ecommerce.kafka.payment;
 
 public enum PaymentMethod {
 

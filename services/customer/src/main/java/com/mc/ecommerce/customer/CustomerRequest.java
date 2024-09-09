@@ -6,7 +6,6 @@ import org.springframework.data.annotation.Id;
 
 public record CustomerRequest(
                  String id,
-
                  @NotNull(message = "Customer firstname is required")
                  String fistname,
 

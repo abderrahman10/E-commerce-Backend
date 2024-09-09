@@ -1,6 +1,6 @@
 package com.mc.ecommerce.kafka.order;
 
-import com.mc.ecommerce.kafka.payement.PaymentMethod;
+import com.mc.ecommerce.kafka.payment.PaymentMethod;
 
 import java.math.BigDecimal;
 import java.util.List;

@@ -1,7 +1,7 @@
 package com.mc.ecommerce.notification;
 
 import com.mc.ecommerce.kafka.order.OrderConfirmation;
-import com.mc.ecommerce.kafka.payement.PaymentConfirmation;
+import com.mc.ecommerce.kafka.payment.PaymentConfirmation;
 import lombok.*;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

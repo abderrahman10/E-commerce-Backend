@@ -2,7 +2,7 @@ package com.mc.ecommerce.kafka;
 
 import com.mc.ecommerce.email.EmailService;
 import com.mc.ecommerce.kafka.order.OrderConfirmation;
-import com.mc.ecommerce.kafka.payement.PaymentConfirmation;
+import com.mc.ecommerce.kafka.payment.PaymentConfirmation;
 import com.mc.ecommerce.notification.Notification;
 import com.mc.ecommerce.notification.NotificationRepository;
 import jakarta.mail.MessagingException;
